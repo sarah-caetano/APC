@@ -1,3 +1,5 @@
+/*Cria um arquivo binário para escrever nele o que o usuário colocar no terminal,uma string (palavra),
+fecha ele, depois reabre para lê-lo*/
 #include <stdio.h>
 int main(int argc, char **argv){
 
